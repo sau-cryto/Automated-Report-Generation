@@ -1,6 +1,20 @@
 #Automated-Repot-Generation
 
 
+*Company*:Codetech IT Solutions
+
+*Name*:Rajshree Nandkumar Gholase
+
+*Intern ID*:CT08VLH
+
+*Domain*:Python Programming
+
+*Duration*:4 Weeks
+
+*Mentor*:Neela Santhosh Kumar
+
+
+
 1. Overview
 
 The Automated Report Generation System is designed to streamline the process of collecting, analyzing, and generating structured reports in multiple formats (PDF, Excel, and HTML). This system reduces manual effort, enhances accuracy, and ensures timely report delivery through automation. It can be used in various industries, such as finance, sales, healthcare, and business analytics.
