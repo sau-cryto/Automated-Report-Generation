@@ -1,3 +1,6 @@
+#Automated-Repot-Generation
+
+
 1. Overview
 
 The Automated Report Generation System is designed to streamline the process of collecting, analyzing, and generating structured reports in multiple formats (PDF, Excel, and HTML). This system reduces manual effort, enhances accuracy, and ensures timely report delivery through automation. It can be used in various industries, such as finance, sales, healthcare, and business analytics.
